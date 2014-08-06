@@ -2,10 +2,10 @@ package gitPackage;
 
 public class TestClass
 {
-// new 6th version
+// new 7th version
 	public static void main(String[] args)
 	{
-		System.out.println("Hello World - Version new 6");
+		System.out.println("Hello World - Version new 7");
 	}
 
 }
