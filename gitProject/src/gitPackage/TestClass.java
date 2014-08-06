@@ -2,10 +2,10 @@ package gitPackage;
 
 public class TestClass
 {
-// second version
+// first version
 	public static void main(String[] args)
 	{
-		System.out.println("Hello World - Version 2");
+		System.out.println("Hello World - Version 1");
 	}
 
 }
